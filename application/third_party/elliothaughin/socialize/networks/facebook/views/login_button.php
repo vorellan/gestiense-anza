@@ -1,0 +1,1 @@
+<fb:login-button v="2" autologoutlink="true" size="large" perms="email"><fb:intl>Login with Facebook</fb:intl></fb:login-button>

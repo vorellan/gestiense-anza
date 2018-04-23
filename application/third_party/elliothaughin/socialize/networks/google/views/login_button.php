@@ -1,0 +1,1 @@
+<a href="#" onclick="google.friendconnect.requestSignIn();">Sign in with Google</a>

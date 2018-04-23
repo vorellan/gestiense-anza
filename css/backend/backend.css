@@ -1,0 +1,353 @@
+
+body {
+	font-family:"trebuchet MS", sans-serif;
+	font-size:12px;
+	background: #cccccc;
+	background-image: url(../images/background/fondo.gif);
+	background-repeat: repeat;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+
+.logo {
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size:23px;
+color: #ffffff;
+}
+
+.footer {
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size:12px;
+color: #ffffff;
+}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+
+a img{ border: none; }
+
+
+h1, h2, h3 { font-family: "Trebuchet MS",Verdana,Sans-Serif; }
+
+h2 {
+    font-size: 20px;
+    letter-spacing: 0.4pt;
+    text-transform: uppercase;
+    padding-top: 0.5em;
+    color: #1C417C;
+}
+
+h3 {
+    font-size: 1.0em;
+    letter-spacing: 0.2pt;
+    text-transform: uppercase;
+    padding-top: 0.5em;
+    color: #0464BB;
+}
+
+
+
+.header {
+	width:  963px;
+	height: 50px;
+	background-color:#D88B5E;
+	
+	
+	
+}
+
+.cuerpo {
+	width: 963px;
+	height: 450px;
+	background: #ffffff;
+	
+}
+
+.footer {
+	width:  963px;
+	height: 30px;
+	background-color:#546B80;
+	
+	
+	
+}
+
+
+
+.tabla_standard {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+text-align: right;
+width: 100%;
+
+}
+
+
+ .tabla_standard th {
+padding: 5px;
+font-size: 11px;
+background-color: #83aec0;
+background-image: url(../images/background/fondo_th.png);  
+background-repeat: repeat-x;
+color: #FFFFFF;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-right-style: solid;
+border-bottom-style: solid;
+border-right-color: #558FA6;
+border-bottom-color: #558FA6;
+font-family: “Trebuchet MS”, Arial;
+text-transform: uppercase;
+text-align:center;
+}
+
+
+
+.tabla_standard td {
+font-size: 10px;
+background-color: #e2ebef;
+background-image: url(../images/background/fondo_tr01.png);
+background-repeat: repeat-x;
+color: #34484E;
+font-family: “Trebuchet MS”, Arial;
+text-align:left;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-right-style: solid;
+border-bottom-style: solid;
+border-right-color: #A4C4D0;
+border-bottom-color: #A4C4D0;
+padding: 3px;
+}
+
+.tabla_standard .icon_td {
+background-color: #e2ebef;
+background-image: url(../images/background/fondo_tr01.png);
+background-repeat: repeat-x;
+color: #34484E;
+font-family: “Trebuchet MS”, Arial;
+text-align:center;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-right-style: solid;
+border-bottom-style: solid;
+border-right-color: #A4C4D0;
+border-bottom-color: #A4C4D0;
+padding: 3px;
+width:1px;
+}
+
+
+
+
+.mensaje{
+background-color: #F2E316;
+width:100%;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#FE4401;
+text-align: center;
+}
+
+.insertar{
+text-align:left;
+width:60px;
+
+}
+
+.modulo{
+text-align: right;
+
+}
+
+
+.tabla_form {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+text-align: right;
+width: 100%;
+
+}
+
+
+ .tabla_form th {
+padding: 5px;
+font-size: 11px;
+background-color: #83aec0;
+background-image: url(../images/background/fondo_th.png);  
+background-repeat: repeat-x;
+color: #FFFFFF;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-right-style: solid;
+border-bottom-style: solid;
+border-right-color: #558FA6;
+border-bottom-color: #558FA6;
+font-family: “Trebuchet MS”, Arial;
+text-transform: uppercase;
+text-align:right;
+}
+
+
+
+.tabla_form td {
+font-size: 10px;
+background-color: #e2ebef;
+background-image: url(../images/background/fondo_tr01.png);
+background-repeat: repeat-x;
+color: #34484E;
+font-family: “Trebuchet MS”, Arial;
+text-align:left;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-right-style: solid;
+border-bottom-style: solid;
+border-right-color: #A4C4D0;
+border-bottom-color: #A4C4D0;
+padding: 3px;
+}
+
+.tabla_form .icon_td {
+background-color: #e2ebef;
+background-image: url(../images/background/fondo_tr01.png);
+background-repeat: repeat-x;
+color: #34484E;
+font-family: “Trebuchet MS”, Arial;
+text-align:center;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-right-style: solid;
+border-bottom-style: solid;
+border-right-color: #A4C4D0;
+border-bottom-color: #A4C4D0;
+padding: 3px;
+width:1px;
+}
+
+
+.readonly{
+ background:yellow;
+}
+
+
+.tabla_menu {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+text-align: right;
+width: 100%;
+}
+
+
+
+.tabla_menu td {
+font-size: 10px;
+background-color: #e2ebef;
+background-repeat: repeat-x;
+color: #34484E;
+font-family: "Trebuchet MS", Arial;
+text-align:left;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-right-style: solid;
+border-bottom-style: solid;
+border-right-color: #A4C4D0;
+border-bottom-color: #A4C4D0;
+padding: 3px;
+}
+
+
+.tabla_menu td a {
+font-size: 10px;
+color: #34484E;
+font-family: "Trebuchet MS", Arial;
+
+}
+
+
+.tabla_menu td:hover {
+font-size: 10px;
+background-color: #cccccc;
+background-repeat: repeat-x;
+font-family: "Trebuchet MS", Arial;
+text-align:left;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-right-style: solid;
+border-bottom-style: solid;
+border-right-color: #A4C4D0;
+border-bottom-color: #A4C4D0;
+padding: 3px;
+text-decoration: none;
+}
+
+#formStandard label.error{color:red}
+
+.ibButton{
+	background-image: url(../../img/admin/b_search.png);
+	background-repeat: no-repeat;
+	padding:7px;
+	border: 4px solid transparent;
+	cursor:pointer;
+}
+
+.cleanButton{
+	background-image: url(../../img/admin/b_drop.png);
+	background-repeat: no-repeat;
+	padding:7px;
+	border: 4px solid transparent;
+	cursor:pointer;
+	
+}
+
+#ib
+{
+	position: absolute;
+	left:50px;
+	top:200px;
+	
+	background-color:#f0f5FF;
+	border: 1px solid #cccccc;
+	z-index: 50;
+	
+	box-shadow: 2px 2px 2px #ccccc;
+   -webkit-box-shadow: 2px 2px 2px #cccccc;
+   -moz-box-shadow: 2px 2px 2px #cccccc;
+	
+}
+#ib_handle 
+{
+	background-color:#5588bb;
+	padding:2px;
+	text-align:center;
+	font-weight:bold;
+	color: #FFFFFF;
+	vertical-align:middle;
+}
+#ib_content 
+{
+	padding:5px;
+}
+#close
+{
+	float:right;
+	text-decoration:none;
+	color:#FFFFFF;
+	background-image: url(../../img/admin/b_drop.png);
+	background-repeat: no-repeat;
+	padding:7px;
+	background-color:#FFFFFF;
+	
+}
+
+
